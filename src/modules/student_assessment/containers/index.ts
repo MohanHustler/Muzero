@@ -1,0 +1,1 @@
+export { default as StudentTest } from "./assessment_page";

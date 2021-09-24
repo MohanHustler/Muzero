@@ -1,0 +1,1270 @@
+{
+  "studentassessment": [
+    {
+      "id": 1,
+      "sectionsanswers": [
+        []
+      ],
+      "attemptedQuestions": [
+        []
+      ],
+      "assessment": {
+        "boardname": "CBSE",
+        "classname": "Class VI",
+        "subjectname": "Mathematics",
+        "sections": [
+          {
+            "title": "Section A",
+            "questions": [
+              {
+                "id": "1",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "djsajdkahjaskdhklasdklaskldhkjasdhsajkhdkashdkjasdhkasjhdksajdhkasjdhkjashd ksahdkjsahkdkashkdashdjas,jdhuaskhdajshdksadksajd",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "A"
+                ],
+                "answerDescription": "Because it is a number",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "13",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a numsdaber?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": 10,
+                "answerDescription": "Because it is a number",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "numeric",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "2",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a number2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "B"
+                ],
+                "answerDescription": "Because it is a number2",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "14",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a numsdaber?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "A",
+                  "C"
+                ],
+                "answerDescription": "Because it is a number",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "multiple",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "5",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a null?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "A"
+                ],
+                "answerDescription": "Because it is a null",
+                "marks": "2",
+                "complexity": "high",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "6",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "C"
+                ],
+                "answerDescription": "Because it is a null2",
+                "marks": "2",
+                "complexity": "high",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "11",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a null?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "A"
+                ],
+                "answerDescription": "Because it is a null",
+                "marks": "2",
+                "complexity": "high",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "12",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "C"
+                ],
+                "answerDescription": "Because it is a null2",
+                "marks": "2",
+                "complexity": "high",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              }
+            ],
+            "totalMarks": 0,
+            "duration": 0
+          },
+          {
+            "title": "Section B",
+            "questions": [
+              {
+                "id": "7",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a number?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "A"
+                ],
+                "answerDescription": "Because it is a number",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "8",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a number2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "B"
+                ],
+                "answerDescription": "Because it is a number2",
+                "marks": "2",
+                "complexity": "easy",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              }
+            ],
+            "totalMarks": 0,
+            "duration": 0
+          },
+          {
+            "title": "Section C",
+            "questions": [
+              {
+                "id": "9",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "C"
+                ],
+                "answerDescription": "Because it is a string",
+                "marks": "2",
+                "complexity": "medium",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "10",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "D"
+                ],
+                "answerDescription": "Because it is a String2",
+                "marks": "2",
+                "complexity": "medium",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              }
+            ],
+            "totalMarks": 0,
+            "duration": 0
+          },
+          {
+            "title": "Section D",
+            "questions": [
+              {
+                "id": "3",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string?",
+                "option1": "It is a number",
+                "option2": "It is a String",
+                "option3": "It is null value",
+                "option4": "I don't know bro",
+                "answer": [
+                  "C"
+                ],
+                "answerDescription": "Because it is a string",
+                "marks": "2",
+                "complexity": "medium",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              },
+              {
+                "id": "4",
+                "boardname": "CBSE",
+                "classname": "Class VI",
+                "subjectname": "Mathematics",
+                "chaptername": "Numbers",
+                "questionDescription": "What is a string2?",
+                "option1": "It is a number2",
+                "option2": "It is a String2",
+                "option3": "It is null value2",
+                "option4": "I don't know bro2",
+                "answer": [
+                  "D"
+                ],
+                "answerDescription": "Because it is a String2",
+                "marks": "2",
+                "complexity": "medium",
+                "source": "database",
+                "type": "single",
+                "percentageError": "5",
+                "negativeMarking": 0
+              }
+            ],
+            "totalMarks": 0,
+            "duration": 0
+          }
+        ],
+        "assessmentname": "Assessment 1",
+        "instructions": "These are the instructions",
+        "duration": 10,
+        "totalMarks": "100",
+        "id": 1
+      }
+    }
+  ],
+  "assessment": [
+    {
+      "boardname": "CBSE",
+      "classname": "Class VI",
+      "subjectname": "Mathematics",
+      "sections": [
+        {
+          "title": "Section A",
+          "questions": [
+            {
+              "id": "1",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a numsdaber?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "A"
+              ],
+              "answerDescription": "Because it is a number",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "13",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a numsdaber?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": 10,
+              "answerDescription": "Because it is a number",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "numeric",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "2",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a number2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "B"
+              ],
+              "answerDescription": "Because it is a number2",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "14",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a numsdaber?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "A",
+                "C"
+              ],
+              "answerDescription": "Because it is a number",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "multiple",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "5",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a null?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "A"
+              ],
+              "answerDescription": "Because it is a null",
+              "marks": "2",
+              "complexity": "high",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "6",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "C"
+              ],
+              "answerDescription": "Because it is a null2",
+              "marks": "2",
+              "complexity": "high",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "11",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a null?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "A"
+              ],
+              "answerDescription": "Because it is a null",
+              "marks": "2",
+              "complexity": "high",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "12",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "C"
+              ],
+              "answerDescription": "Because it is a null2",
+              "marks": "2",
+              "complexity": "high",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            }
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        },
+        {
+          "title": "Section B",
+          "questions": [
+            {
+              "id": "7",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a number?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "A"
+              ],
+              "answerDescription": "Because it is a number",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "8",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a number2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "B"
+              ],
+              "answerDescription": "Because it is a number2",
+              "marks": "2",
+              "complexity": "easy",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            }
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        },
+        {
+          "title": "Section C",
+          "questions": [
+            {
+              "id": "9",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "C"
+              ],
+              "answerDescription": "Because it is a string",
+              "marks": "2",
+              "complexity": "medium",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "10",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "D"
+              ],
+              "answerDescription": "Because it is a String2",
+              "marks": "2",
+              "complexity": "medium",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            }
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        },
+        {
+          "title": "Section D",
+          "questions": [
+            {
+              "id": "3",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string?",
+              "option1": "It is a number",
+              "option2": "It is a String",
+              "option3": "It is null value",
+              "option4": "I don't know bro",
+              "answer": [
+                "C"
+              ],
+              "answerDescription": "Because it is a string",
+              "marks": "2",
+              "complexity": "medium",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            },
+            {
+              "id": "4",
+              "boardname": "CBSE",
+              "classname": "Class VI",
+              "subjectname": "Mathematics",
+              "chaptername": "Numbers",
+              "questionDescription": "What is a string2?",
+              "option1": "It is a number2",
+              "option2": "It is a String2",
+              "option3": "It is null value2",
+              "option4": "I don't know bro2",
+              "answer": [
+                "D"
+              ],
+              "answerDescription": "Because it is a String2",
+              "marks": "2",
+              "complexity": "medium",
+              "source": "database",
+              "type": "single",
+              "percentageError": "5",
+              "negativeMarking": 0
+            }
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        }
+      ],
+      "assessmentname": "Assessment 1",
+      "instructions": "These are the instructions",
+      "duration": 10,
+      "totalMarks": "100",
+      "id": 1
+    },
+    {
+      "boardname": "CBSE",
+      "classname": "Class VI",
+      "subjectname": "Science",
+      "sections": [
+        {
+          "title": "Section A",
+          "questions": [],
+          "totalMarks": 0,
+          "duration": 0
+        },
+        {
+          "title": "Section B",
+          "questions": [
+            "ashdsjadsd"
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        },
+        {
+          "title": "Section C",
+          "questions": [
+            "ahdsdhads"
+          ],
+          "totalMarks": 0,
+          "duration": 0
+        }
+      ],
+      "assessmentname": "Assessment 2",
+      "instructions": "These are the instructions",
+      "duration": 10,
+      "totalMarks": 10,
+      "id": 2
+    }
+  ],
+  "topic": [
+    {
+      "boardname": "CBSE",
+      "classname": "Class VI",
+      "subjectname": "Mathematics",
+      "chaptername": "Numbers",
+      "title": "Knowing the Strings",
+      "questionSet": {
+        "easy": [
+          {
+            "id": "1",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a numsdaber?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "A"
+            ],
+            "answerDescription": "Because it is a number",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "13",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a numsdaber?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": 10,
+            "answerDescription": "Because it is a number",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "numeric",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "2",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a number2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "B"
+            ],
+            "answerDescription": "Because it is a number2",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "14",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a numsdaber?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "A",
+              "C"
+            ],
+            "answerDescription": "Because it is a number",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "multiple",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ],
+        "medium": [
+          {
+            "id": "3",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "C"
+            ],
+            "answerDescription": "Because it is a string",
+            "marks": "2",
+            "complexity": "medium",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "4",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "D"
+            ],
+            "answerDescription": "Because it is a String2",
+            "marks": "2",
+            "complexity": "medium",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ],
+        "high": [
+          {
+            "id": "5",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a null?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "A"
+            ],
+            "answerDescription": "Because it is a null",
+            "marks": "2",
+            "complexity": "high",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "6",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "C"
+            ],
+            "answerDescription": "Because it is a null2",
+            "marks": "2",
+            "complexity": "high",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ]
+      }
+    },
+    {
+      "boardname": "CBSE",
+      "classname": "Class VI",
+      "subjectname": "Mathematics",
+      "chaptername": "Numbers",
+      "title": "Knowing the numbers",
+      "questionSet": {
+        "easy": [
+          {
+            "id": "7",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a number?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "A"
+            ],
+            "answerDescription": "Because it is a number",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "8",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a number2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "B"
+            ],
+            "answerDescription": "Because it is a number2",
+            "marks": "2",
+            "complexity": "easy",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ],
+        "medium": [
+          {
+            "id": "9",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "C"
+            ],
+            "answerDescription": "Because it is a string",
+            "marks": "2",
+            "complexity": "medium",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "10",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "D"
+            ],
+            "answerDescription": "Because it is a String2",
+            "marks": "2",
+            "complexity": "medium",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ],
+        "high": [
+          {
+            "id": "11",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a null?",
+            "option1": "It is a number",
+            "option2": "It is a String",
+            "option3": "It is null value",
+            "option4": "I don't know bro",
+            "answer": [
+              "A"
+            ],
+            "answerDescription": "Because it is a null",
+            "marks": "2",
+            "complexity": "high",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          },
+          {
+            "id": "12",
+            "boardname": "CBSE",
+            "classname": "Class VI",
+            "subjectname": "Mathematics",
+            "chaptername": "Numbers",
+            "questionDescription": "What is a string2?",
+            "option1": "It is a number2",
+            "option2": "It is a String2",
+            "option3": "It is null value2",
+            "option4": "I don't know bro2",
+            "answer": [
+              "C"
+            ],
+            "answerDescription": "Because it is a null2",
+            "marks": "2",
+            "complexity": "high",
+            "source": "database",
+            "type": "single",
+            "percentageError": "5",
+            "negativeMarking": 0
+          }
+        ]
+      }
+    }
+  ],
+  "viewresults": [{
+    "code": 0,
+    "message": "Success",
+    "contentList": [{
+        "ownerId": "SB1",
+        "student": {
+          "batches": ["5fd6f0a5f0bbaa4fb19ba774"],
+          "_id": "5fd6f020f0bbaa4fb19ba772",
+          "ownerId": "SB1",
+          "mobileNo": "8667712481",
+          "studentName": "Student 1",
+          "location": "Ghaziabad",
+          "schoolName": "DPS Indirapuram",
+          "boardName": "CBSE",
+          "className": "Class VIII",
+          "status": 1,
+          "updatedon": "2020-12-14T04:54:56.841Z",
+          "updatedby": "5fd6ef18f0bbaa4fb19ba770",
+          "parent": "5fd6f020f0bbaa4fb19ba773",
+          "__v": 0
+        },
+        "content": "5ff7cbe56de686168ff64aba",
+        "isFinished": false,
+        "total": 10,
+        "attempted": 0,
+        "correct": 8,
+        "answers": null,
+        "status": 1,
+        "updatedon": "2021-01-08T03:06:19.963Z",
+        "updatedby": "5fd6ef18f0bbaa4fb19ba770"
+      },
+      {
+        "ownerId": "SB1",
+        "student": {
+          "batches": ["5fd6f0a5f0bbaa4fb19ba774"],
+          "_id": "5fd6f020f0bbaa4fb19ba773",
+          "ownerId": "SB1",
+          "mobileNo": "8667712482",
+          "studentName": "Student 2",
+          "location": "Ghaziabad",
+          "schoolName": "DPS Indirapuram",
+          "boardName": "CBSE",
+          "className": "Class VIII",
+          "status": 1,
+          "updatedon": "2020-12-14T04:54:56.841Z",
+          "updatedby": "5fd6ef18f0bbaa4fb19ba770",
+          "parent": "5fd6f020f0bbaa4fb19ba773",
+          "__v": 0
+        },
+        "content": "5ff7cbe56de686168ff64abb",
+        "isFinished": false,
+        "total": 10,
+        "attempted": 0,
+        "correct": 6,
+        "answers": null,
+        "status": 1,
+        "updatedon": "2021-01-08T03:06:19.963Z",
+        "updatedby": "5fd6ef18f0bbaa4fb19ba770"
+      },
+      {
+        "ownerId": "SB1",
+        "student": {
+          "batches": ["5fd6f0a5f0bbaa4fb19ba774"],
+          "_id": "5fd6f020f0bbaa4fb19ba774",
+          "ownerId": "SB1",
+          "mobileNo": "8667712483",
+          "studentName": "Student 3",
+          "location": "Ghaziabad",
+          "schoolName": "DPS Indirapuram",
+          "boardName": "CBSE",
+          "className": "Class VIII",
+          "status": 1,
+          "updatedon": "2020-12-14T04:54:56.841Z",
+          "updatedby": "5fd6ef18f0bbaa4fb19ba770",
+          "parent": "5fd6f020f0bbaa4fb19ba773",
+          "__v": 0
+        },
+        "content": "5ff7cbe56de686168ff64abc",
+        "isFinished": false,
+        "total": 10,
+        "attempted": 0,
+        "correct": 3,
+        "answers": null,
+        "status": 1,
+        "updatedon": "2021-01-08T03:06:19.963Z",
+        "updatedby": "5fd6ef18f0bbaa4fb19ba770"
+      }
+    ]
+  }],
+  "chapters": {
+    "chapterDetailsList": [{
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 2: Linear Equations in One Variable 2.1 Introduction",
+        "orderNo": 1
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 3: Understanding Quadrilaterals 3.1 Introduction",
+        "orderNo": 2
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 4: Practical Geometry 4.1 Introduction",
+        "orderNo": 3
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 5: Data Handling 5.1 Looking for Information",
+        "orderNo": 4
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 6: Squares and Square Roots 6.1 Introduction",
+        "orderNo": 5
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 7: Cubes and Cube Roots 7.1 Introduction",
+        "orderNo": 6
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 8: Comparing Quantities 8.1 Recalling Ratios and Percentages",
+        "orderNo": 7
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 9: Algebraic Expressions and Identities 9.1 What are Expressions?",
+        "orderNo": 8
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 10: Visualising Solid Shapes 10.1 Introduction",
+        "orderNo": 9
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 11: Mensuration 11.1 Introduction",
+        "orderNo": 10
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 12: Exponents and Powers 12.1 Introduction",
+        "orderNo": 11
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 13: Direct and Inverse Proportions 13.1 Introduction",
+        "orderNo": 12
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 14: Factorisation 14.1 Introduction",
+        "orderNo": 13
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 15: Introduction to Graphs 15.1 Introduction",
+        "orderNo": 14
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 1: Rational Numbers 1.1 Introduction",
+        "orderNo": 15
+      },
+      {
+        "contents": [],
+        "isMaster": true,
+        "name": "Chapter 16: Playing with Numbers 16.1 Introduction",
+        "orderNo": 16
+      }
+    ]
+  }
+}
